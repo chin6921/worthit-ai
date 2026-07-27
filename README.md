@@ -236,8 +236,8 @@ worthit-ai/
     <img src="screenshort/compare1.png" alt="compare product" width="100%" /> | <img src="screenshort/copmpare2.png" alt="show best product" width="100%" />
 *Comparative analysis matrix between 2+ competing items* 
 
-<br/>
 ---
+
 <br/>
      **Product value analyzer**
 
