@@ -237,8 +237,8 @@ worthit-ai/
 *Comparative analysis matrix between 2+ competing items* 
 
 <br/>
-<br/>
 ---
+<br/>
      **Product value analyzer**
 
 | 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
