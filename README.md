@@ -230,13 +230,15 @@ worthit-ai/
 | :---: | :---: |
 | <img src="screenshort/dashboard.png" alt="Landing Page" width="100%" /> | <img src="screenshort/dashboard2.png" alt="Dashboard" width="100%" /> |
 | *Hero section introducing AI purchase evaluation* | *Overview of buy scores, budget impact, and recent insights* |
-
+---
 <br />
-   >  ↔️ **Side-by-Side Product Comparison** 
+     ↔️ **Side-by-Side Product Comparison** 
     <img src="screenshort/compare1.png" alt="compare product" width="100%" /> | <img src="screenshort/copmpare2.png" alt="show best product" width="100%" />
 *Comparative analysis matrix between 2+ competing items* 
 
-<br />
+<br/>
+<br/>
+---
      **Product value analyzer**
 
 | 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
@@ -245,14 +247,14 @@ worthit-ai/
 <img src="screenshort/prdctanalyzr3.png" alt="AI Analysis Screen" width="100%" />
  *Multi-factor form evaluating budget, usage, & need* 
 <br />
-
+---
 | 🔖 **Wishlist & Cooling-Off Tracker** | 📜 **Analysis History & Cloud Sync** |
 | :---: | :---: |
 | <img src="screenshort/watchlist.png" alt="Wishlist" width="100%" /> | <img src="screenshort/history.png" alt="History" width="100%" /> |
 | *Cooling-off timer and priority tagging to delay impulse buys* | *Persistent Firestore database of all past product evaluations* |
 
 <br />
-
+---
 | ☁️ **Firebase Firestore Database** |
 | :---: |
 | <img src="screenshort/firebase.png" alt="Firebase Database" width="100%" /> |
