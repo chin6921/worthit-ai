@@ -235,15 +235,14 @@ worthit-ai/
 
    >  ↔️ **Side-by-Side Product Comparison** 
     <img src="screenshort/compare1.png" alt="compare product" width="100%" /> | <img src="screenshort/copmpare2.png" alt="show best product" width="100%" />
-
 *Comparative analysis matrix between 2+ competing items* 
+<br/>
 
 | 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
 | :---: | :-
 <img src="screenshort/prdctanalyzr.png" alt="AI Analysis Screen" width="100%" /> | <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" /> 
 <img src="screenshort/prdctanalyzr3.png" alt="AI Analysis Screen" width="100%" />
  *Multi-factor form evaluating budget, usage, & need* 
-
 <br />
 
 | 🔖 **Wishlist & Cooling-Off Tracker** | 📜 **Analysis History & Cloud Sync** |
