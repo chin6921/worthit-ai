@@ -243,7 +243,8 @@ worthit-ai/
 
 | 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
 | :---: | :-
-<img src="screenshort/prdctanalyzr.png" alt="AI Analysis Screen" width="100%" /> | <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" /> 
+<img src="screenshort/prdctanalyzr.png" alt="AI Analysis Screen" width="100%" /> 
+ <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" /> |
 <img src="screenshort/prdctanalyzr3.png" alt="AI Analysis Screen" width="100%" />
  *Multi-factor form evaluating budget, usage, & need* 
  
