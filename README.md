@@ -228,28 +228,34 @@ worthit-ai/
 
 | 🌐 **Landing Page & Hero** | 📊 **Smart Decision Dashboard** |
 | :---: | :---: |
-| <img src="https://placehold.co/600x350/1e293b/ffffff?text=WorthIt+AI+Landing+Page" alt="Landing Page" width="100%" /> | <img src="https://placehold.co/600x350/1e293b/ffffff?text=Smart+Decision+Dashboard" alt="Dashboard" width="100%" /> |
+| <img src="screenshort/dashboard.png" alt="Landing Page" width="100%" /> | <img src="screenshort/dashboard2.png" alt="Dashboard" width="100%" /> |
 | *Hero section introducing AI purchase evaluation* | *Overview of buy scores, budget impact, and recent insights* |
 
 <br />
 
-| 🤖 **AI Product Analysis Wizard** | ⚖️ **Side-by-Side Product Comparison** |
-| :---: | :---: |
-| <img src="https://placehold.co/600x350/1e293b/ffffff?text=AI+Analysis+Wizard" alt="AI Analysis Screen" width="100%" /> | <img src="https://placehold.co/600x350/1e293b/ffffff?text=Product+Comparison+Screen" alt="Comparison Screen" width="100%" /> |
-| *Multi-factor form evaluating budget, usage, & need* | *Comparative analysis matrix between 2+ competing items* |
+   >  ↔️ **Side-by-Side Product Comparison** 
+    <img src="screenshort/compare1.png" alt="compare product" width="100%" /> | <img src="screenshort/copmpare2.png" alt="show best product" width="100%" />
+
+*Comparative analysis matrix between 2+ competing items* 
+
+| 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
+| :---: | :-
+<img src="screenshort/prdctanalyzr.png" alt="AI Analysis Screen" width="100%" /> | <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" /> | <img
+src="screenshort/prdctanalyzr3.png" alt="Comparison Screen" width="100%" />
+ *Multi-factor form evaluating budget, usage, & need* 
 
 <br />
 
 | 🔖 **Wishlist & Cooling-Off Tracker** | 📜 **Analysis History & Cloud Sync** |
 | :---: | :---: |
-| <img src="https://placehold.co/600x350/1e293b/ffffff?text=Wishlist+Manager" alt="Wishlist" width="100%" /> | <img src="https://placehold.co/600x350/1e293b/ffffff?text=Analysis+History+Logs" alt="History" width="100%" /> |
+| <img src="screenshort/watchlist.png" alt="Wishlist" width="100%" /> | <img src="screenshort/history.png" alt="History" width="100%" /> |
 | *Cooling-off timer and priority tagging to delay impulse buys* | *Persistent Firestore database of all past product evaluations* |
 
 <br />
 
 | ☁️ **Firebase Firestore Database** |
 | :---: |
-| <img src="https://placehold.co/1200x350/1e293b/ffffff?text=Firebase+Firestore+Cloud+Database+Storage" alt="Firebase Database" width="100%" /> |
+| <img src="screenshort/firebase.png" alt="Firebase Database" width="100%" /> |
 | *Secure, scalable real-time Cloud Firestore backend storing user decision records* |
 
 </div>
