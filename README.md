@@ -240,7 +240,7 @@ worthit-ai/
 
 <br/>
 
-     **Product value analyzer**
+    *** Product value analyzer***
 
 | 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
 | :---: | :-
