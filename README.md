@@ -239,6 +239,7 @@ worthit-ai/
 ---
 
 <br/>
+
      **Product value analyzer**
 
 | 🤖 **AI Product Analysis Wizard** | ⚖️ **best product analyze** |
@@ -246,15 +247,17 @@ worthit-ai/
 <img src="screenshort/prdctanalyzr.png" alt="AI Analysis Screen" width="100%" /> | <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" /> 
 <img src="screenshort/prdctanalyzr3.png" alt="AI Analysis Screen" width="100%" />
  *Multi-factor form evaluating budget, usage, & need* 
+ ---
+ 
 <br />
----
+
 | 🔖 **Wishlist & Cooling-Off Tracker** | 📜 **Analysis History & Cloud Sync** |
 | :---: | :---: |
 | <img src="screenshort/watchlist.png" alt="Wishlist" width="100%" /> | <img src="screenshort/history.png" alt="History" width="100%" /> |
 | *Cooling-off timer and priority tagging to delay impulse buys* | *Persistent Firestore database of all past product evaluations* |
 
 <br />
----
+
 | ☁️ **Firebase Firestore Database** |
 | :---: |
 | <img src="screenshort/firebase.png" alt="Firebase Database" width="100%" /> |
