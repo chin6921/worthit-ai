@@ -230,7 +230,7 @@ worthit-ai/
 | :---: | :---: |
 | <img src="screenshort/dashboard.png" alt="Landing Page" width="100%" /> | <img src="screenshort/dashboard2.png" alt="Dashboard" width="100%" /> |
 | *Hero section introducing AI purchase evaluation* | *Overview of buy scores, budget impact, and recent insights* |
-p---
+---
 <br />
      ↔️ **Side-by-Side Product Comparison** 
     <img src="screenshort/compare1.png" alt="compare product" width="100%" /> | <img src="screenshort/copmpare2.png" alt="show best product" width="100%" />
@@ -240,13 +240,21 @@ p---
 
 <br/>
 
-|*AI PRODUCT ANALYZER SCREEN*|
+### *AI PRODUCT ANALYZER SCREEN*
 <img src="screenshort/prdctanalyzr.png" alt="AI Analysis Screen" width="100%" /> 
- <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" /> |
+---
+ <img src="screenshort/prdctanalyzr2.png" alt="Category Select Screen" width="100%" />
+
+ *⚖️best product analyze*
+ 
+---
+
 <img src="screenshort/prdctanalyzr3.png" alt="AI Analysis Screen" width="100%" />
 
-| *🤖 AI Product Analysis Wizard* | *⚖️best product analyze*|
+ *🤖 AI Product Analysis Wizard*
+
 <br/>
+
  *Multi-factor form evaluating budget, usage, & need* 
  
  ---
