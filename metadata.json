@@ -1,0 +1,6 @@
+{
+  "name": "WorthIt AI",
+  "description": "Think Before You Spend. Smart purchasing decision analysis and product comparison platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
